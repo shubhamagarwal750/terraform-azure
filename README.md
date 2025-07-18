@@ -15,4 +15,6 @@ This repository contains reusable Terraform configurations and modules to provis
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) for authentication and resource management
 - [Install the Azure CLI](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-build#install-the-azure-cli)
 
-## [Build infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-build)
+### [Build infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-build)
+### [Change infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-change)
+
