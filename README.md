@@ -18,4 +18,5 @@ This repository contains reusable Terraform configurations and modules to provis
 ### [Build infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-build)
 ### [Change infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-change)
 ### [Destroy infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-destroy)
+### [Define input variables](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-variables)
 
